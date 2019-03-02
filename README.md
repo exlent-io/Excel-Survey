@@ -10,6 +10,6 @@ The definition of `Powerful`
 |-----------|----------|---------|---|
 | [Apache POI](https://poi.apache.org/) | JAVA  | Apache License 2.0  |   | 
 | [Microsoft/Open XML SDK](https://github.com/OfficeDev/Open-XML-SDK)  | C#  | MIT |   | 
-| LibreOffice?  | C++ | MPL 2.0  |   | 
+| LibreOffice (core?)  | C++ | MPL 2.0  |   | 
 | [openpyxl/openpyxl](https://bitbucket.org/openpyxl/openpyxl/overview)  | Python | MIT/Expat  |   | 
 |   |   |   |   | 
