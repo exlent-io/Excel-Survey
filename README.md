@@ -4,6 +4,7 @@ Powerful libraries for xlsx
 The definition of `Powerful`  
 - Duplicate sheet within workbook
 - RichText style
+- Insert / Remove / Shift rows
 
 |  Project  | Language | License |  |
 |-----------|----------|---------|---|
